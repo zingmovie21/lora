@@ -14,8 +14,8 @@ A powerful image generation pipeline using LoRA (Low-Rank Adaptation) models wit
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/loraorwhat.git
-cd loraorwhat
+git clone https://github.com/zingmovie21/lora.git
+cd lora
 ```
 
 2. Install dependencies:
